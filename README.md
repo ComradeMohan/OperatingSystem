@@ -1,5 +1,5 @@
 
-  <img align="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+  <img align="right" alt ="coding" width="400" src="https://media.giphy.com/media/JmJMzlXOiI0dq/giphy.gif">
 <p ><b>Name:</b><i> M Mohan Reddy  </i></p>
 <p ><b>Reg no:</b> 192210400 </p>
 <p ><b>Dept:</b> CSE </p>
