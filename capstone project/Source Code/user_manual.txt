@@ -1,14 +1,3 @@
-<h1 align="center" >Process-scheduling-simulator <h1>
-<p>Created programs to simulate two diﬀerent scheduling algorithms i.e. First come, first served and Preemptive Round Robin scheduling<p>
-<p>
-<img src="resource/scheduler_pic.png" alt="Logo" align="center" width="600px">
-</p>
-
-	
-	
-## Instruction 
-
-```
 FCFS and ROUND_ROBIN user commands
 Name
 	non-preemtive-28963555 - graphic display the ROUND_ROBIN  scheduler work
@@ -41,6 +30,9 @@ Description
 
 	./preemtive-28963555, it reads by default fileName "process-data.txt" and display the graphic of the process execution using the 
                                               FCFS scheduler
+
 Overall Limitation:
      filename should be there and Process time should be a natural number, process name should not more than 10 characters.
-```
+       
+Author:
+  Written by Shourya Raj 
